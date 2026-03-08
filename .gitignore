@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
+~$*
+
+# Python
+__pycache__/
+*.pyc
+*.py
+
+# IDE
+.vscode/
+.idea/
